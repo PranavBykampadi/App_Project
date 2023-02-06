@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="MainActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appBarLayout"
@@ -159,7 +159,6 @@
             android:layout_height="wrap_content"
             android:text="Button" />
     </LinearLayout>
-    <?xml version="1.0" encoding="utf-8"?>
 
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
